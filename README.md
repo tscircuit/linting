@@ -1,6 +1,6 @@
 # @tscircuit/linting
 
-Common code conventions make coding easier, especially when those convetions
+Common code conventions make coding easier, especially when those conventions
 are standardized across projects.
 
 tscircuit has strict conventions available for projects that are becoming
