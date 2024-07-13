@@ -1,5 +1,8 @@
 # @tscircuit/linting
 
+> [!WARNING]
+> This has been superceded by [tscircuit/plop](https://github.com/tscircuit/plop)
+
 Common code conventions make coding easier, especially when those conventions
 are standardized across projects.
 
